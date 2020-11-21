@@ -1,0 +1,5 @@
+# Dependency directori
+node_modules
+
+# Arquivo
+yarn.lock 
