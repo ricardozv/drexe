@@ -5,14 +5,18 @@
   "repository": "https://github.com/ricardozv/drexe.git",
   "author": "ricardozv <ricardozv@gmail.com>",
   "license": "MIT",
-  "scripts" :{
+  "scripts": {
     "dev": "nodemon src/server.js"
   },
   "dependencies": {
     "express": "^4.17.1"
   },
   "devDependencies": {
+    "eslint": "^7.14.0",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-prettier": "^3.1.4",
     "nodemon": "^2.0.6",
+    "prettier": "^2.2.0",
     "sucrase": "^3.16.0"
   }
 }
