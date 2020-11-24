@@ -1,3 +1,5 @@
+//migrations 
+
 'use strict';
 
 module.exports = {
@@ -35,8 +37,6 @@ module.exports = {
         type: Sequelize.DATE,
         allowNull: false,
       },
-    
-    
     });
   },
 
